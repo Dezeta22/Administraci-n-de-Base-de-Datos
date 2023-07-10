@@ -14,3 +14,21 @@ La base posee los siguientes campos que son aleatorios
 	Porcentaje de utilización (Saldo Mensual / Límite de Crédito)
 
 Importamos las librerias necesaria:
+
+![github](Importl.png)
+
+Establecemos conexion a la base de datos:
+
+![github](conex.png)
+
+creamos una tabla de registro que ejecute una consulta a SQL  utilizando el método execute() del objeto cursor.
+
+Generamos registros aleatorio. 
+
+
+
+
+
+
+
+
