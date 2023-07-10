@@ -25,6 +25,23 @@ creamos una tabla de registro que ejecute una consulta a SQL  utilizando el mét
 
 Generamos registros aleatorio. 
 
+![github](imag.png)
+
+Una vez finalizado el codigo y lo ejecutemos en la terminal se nos creara un archivo "basededatos.bd" lo cual para poder abrirlo debemos ingresar a otro programa llamado 'DB Browser' y abrimos el archivo y se nos mostrara la base de datos de manera grafica.
+
+![github](Screenshot.png)
+
+Vista que agrupo todos los usuarios que esten en aduldez joven (20- 25 años)
+
+![github](registro.png)
+
+Filtramos el dataset original para conseguir las personas que tengan un porcentaje de utilización del 50% y sean mayor de 18 años
+
+![github](porcentaje.png)
+
+
+
+
 
 
 
